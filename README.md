@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, i am <span style="color: #0a3d33;"> Tomas Kuper </span>👋</h1>
 </div>
-<img src="https://media.licdn.com/dms/image/D4D16AQE-HWZlkNTbdQ/profile-displaybackgroundimage-shrink_350_1400/0/1712677600550?e=1718236800&v=beta&t=xedgR2yif2g27seLs9lZNSzeNHnb9YTd0C1bhL3Y0GY">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/8e3dca196100407.6619c06c320e5.png">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomas-kuperman-19a5611b0/)
 
