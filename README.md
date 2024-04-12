@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi, i am <span style="color: #0a3d33;"> Tomas Kuper </span>👋</h1>
+<h1 align="center">Hi, i´m <span style="color: #0a3d33;"> Tomas Kuper </span>👋</h1>
 </div>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/8e3dca196100407.6619c06c320e5.png">
 
