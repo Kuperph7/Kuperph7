@@ -7,7 +7,7 @@
 
 ## About me
  
-- 📲 Web Developer
+- 💻 Web Developer
 - 🔭 I am currently working as a freelance
 - 🌍 Worked for clients in the USA, Thailand, Spain, etc
 - 🌱 I constantly study on my own and try to keep up to date with new technologies
